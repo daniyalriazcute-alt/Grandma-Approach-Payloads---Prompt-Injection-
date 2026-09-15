@@ -11,7 +11,6 @@
 
 <br/><br/>
 
-![License](https://img.shields.io/badge/License-MIT-ff0040?style=for-the-badge&labelColor=0d1117)
 ![Payloads](https://img.shields.io/badge/Payloads-30-ff0040?style=for-the-badge&labelColor=0d1117)
 ![Category](https://img.shields.io/badge/Category-Prompt_Injection-ff0040?style=for-the-badge&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Active-ff0040?style=for-the-badge&labelColor=0d1117)
@@ -390,29 +389,6 @@ cd grandma-payloads
 **PRs welcome!** Add new grandma variants, improve payloads, or document defenses.
 
 </div>
-
----
-
-## 📜 `> cat LICENSE`
-
-```
-MIT License
-
-Copyright (c) 2025 YOUR_USERNAME
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. This project
-is intended for educational and authorized security testing purposes only.
-```
 
 ---
 
